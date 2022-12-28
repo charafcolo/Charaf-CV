@@ -6,7 +6,7 @@ const Navigation = () => {
         <div className='sidebar'>
             <div className='id'>
                 <div className='idContent'>
-                    <img src='./media/charaf.jpg' alt='profil-pic'/>
+                    <img src='./media/charaf.png' alt='profil-pic'/>
                     <h3> Charaf Colo</h3> 
                 </div>
             </div> 
@@ -50,7 +50,7 @@ const Navigation = () => {
                 </li>
             </ul>
             <div className='signature'>
-                <p>Tous droits réservés - 2022</p>
+                <p>Fait avec ❤️ par Charaf - 2023</p>
             </div>
 
         </div>

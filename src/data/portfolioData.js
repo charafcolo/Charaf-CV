@@ -22,18 +22,18 @@ export const portfolioData = [
     name: 'charafcolo.fr',
     languages: ['javascript','react'],
     languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
+    source: 'https://github.com/charafcolo/Charaf-Portfolio',
     info: 'Mon CV en ligne réalisé avec React JS',
     picture: './media/project3.JPG'
   },
   {
     id: 4,
-    name: 'renonat.fr',
-    languages: ['javascript','react'],
-    languagesIcons: ['fab fa-js','fab fa-react'],
+    name: 'renonat.com',
+    languages: ['php','javascript'],
+    languagesIcons: ['fab fa-php'],
     source: 'https://github.com/charafcolo/',
     info: "Site vitrine pour professionnelle de la maîtrise d'oeuvre.",
-    picture: './media/project4.JPG'
+    picture: './media/project4.PNG'
   },
 
 ]

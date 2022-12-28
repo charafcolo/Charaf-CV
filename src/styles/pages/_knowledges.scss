@@ -107,6 +107,7 @@
     .experience {
       grid-area: E;
       margin: 0 0 .5rem .5rem;
+      padding-bottom: 6rem;
       display: grid;
       grid-template-columns: 1fr;
       grid-template-rows: 10% 1fr 1fr;
@@ -130,6 +131,7 @@
         color: $color-1;
         text-align: justify;
         padding: 0 1rem;
+        
       }
       .exp-1 {
         grid-area: 2;
@@ -183,7 +185,7 @@
     }
   }
 }
-@media screen and (max-width: 950px){
+@media screen and (max-width: 850px){
   .knowledgesContent {
     h3 {
       font-size: 1.2rem !important;
@@ -222,6 +224,7 @@
     .experience {
       grid-area: 2 !important;
       margin-left: 0 !important;
+      margin-top: 2em;
     }
     .otherSkills {
       grid-area: 3 !important;

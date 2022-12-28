@@ -29,7 +29,7 @@
 
       img {
         border-radius: 50%;
-        box-shadow: 0 0 0 4px $color-4, 0 0 0 4px $color-2;
+        box-shadow: 0 0 0 1px white;
       }
       h3 {
         font-size: 1.3rem;
@@ -46,7 +46,7 @@
 
     ul {
       height: 100%;
-      display: grid;
+      display:grid;
     
       li {
         padding: 1rem 0 1rem .4rem;
@@ -54,7 +54,7 @@
         position: relative;
 
         &:hover i {
-          transform: translate(3px, 3px);
+          transform: translate(5px, 10px);
         }
 
         a {
